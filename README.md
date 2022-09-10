@@ -3,4 +3,4 @@ Investigating Diabetic Retinopathy and using image preprocessing techniques on t
 
 Important resources:
 #### Ben Graham image preprocessing techniques for Retinal images in DBR. First place in kaggle competition
-- file:///C:/Users/ghimi/OneDrive/Desktop/competitionreport.pdf 
+https://pdfslide.net/documents/kaggle-diabetic-retinopathy-detection-competition-report.html?page=5
